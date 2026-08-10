@@ -33,6 +33,11 @@ The analysis excludes records with missing or invalid dates, missing
 event types and test events. Registration events are retained as
 month 0 activity.
 
+An earlier version normalised the date components (LPAD, day_norm, month_norm, year_norm) 
+before conversion. I ultimately chose direct format detection with CASE and to_timestamp() 
+because it is simpler and sufficient for this project, while still handling both supported 
+date formats correctly.
+
 ## Google Sheets Analysis
 The SQL output was exported to Google Sheets, where the cohort table
 was prepared and retention rates were calculated.
