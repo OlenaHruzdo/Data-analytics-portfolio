@@ -18,4 +18,4 @@ The projects focus on:
 - Google Sheets
 - Git & GitHub
 
-**Connect:** linkedin.com/in/olena-hruzdo
+## Connect: linkedin.com/in/olena-hruzdo
