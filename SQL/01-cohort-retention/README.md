@@ -42,7 +42,7 @@ date formats correctly.
 The SQL output was exported to Google Sheets, where the cohort table
 was prepared and retention rates were calculated.
 
-**[View the cohort analysis in Google Sheets →] https://docs.google.com/spreadsheets/d/1LzF0mxAypZOrtERvhhvQqyykkcgQWQo8gajBfjkfO7w/edit?usp=drive_link**
+**[View the cohort analysis in Google Sheets →](https://docs.google.com/spreadsheets/d/1LzF0mxAypZOrtERvhhvQqyykkcgQWQo8gajBfjkfO7w/edit?usp=drive_link)**
 
 ## Tools
 - PostgreSQL
@@ -51,3 +51,6 @@ was prepared and retention rates were calculated.
 
 ## Files
 - `cohort_analysis.sql` — SQL query used to prepare the cohort data
+
+## Skills demonstrated
+SQL (CTEs, data cleaning, date parsing, aggregation) · PostgreSQL · DBeaver · Cohort analysis · Google Sheets
