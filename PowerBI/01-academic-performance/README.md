@@ -103,7 +103,7 @@ Each element uses a distinct colour, line style and weight so it remains visuall
 
 - Power BI Desktop
 - DAX
-- Power Query (M)
+- Power Query 
 
 ---
 
