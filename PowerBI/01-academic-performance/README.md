@@ -35,7 +35,7 @@ Six raw CSV files simulating a school's gradebook system:
 
 ## Data Model — Star Schema
 
-A dedicated **`Calendar`** date dimension was built entirely in DAX (not Power Query), covering the full date range of the `grades` fact table, with `Date`, `Year`, `Month`, `Month Number` and `Year-Month` attributes.
+A dedicated **`Calendar`** date dimension was built entirely in DAX, covering the full date range of the `grades` fact table, with `Date`, `Year`, `Month`, `Month Number` and `Year-Month` attributes.
 
 **Fact table:** `grades`
 **Dimension tables:** `students`, `classes`, `teachers`, `subjects`, `periods`, `Calendar`
@@ -69,7 +69,7 @@ The trend chart on the Analytics & Time Intelligence page combines several nativ
 - 25th percentile, median and 75th percentile, each with data labels
 - A constant reference line at the passing threshold (6.0)
 - A trend line
-- A 1–3 month forecast with a shaded 95% confidence band
+- A 3 month forecast with a shaded 95% confidence band
 
 Each element uses a distinct colour, line style and weight so it remains visually separable from the underlying data series.
 
