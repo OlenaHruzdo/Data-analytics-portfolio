@@ -16,7 +16,7 @@ The projects focus on:
 - Python
 - Power BI
 - Google Sheets
-- Git & GitHub
+
 
 
 **Connect:** linkedin.com/in/olena-hruzdo
