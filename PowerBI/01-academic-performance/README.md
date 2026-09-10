@@ -106,7 +106,7 @@ Each element uses a distinct colour, line style and weight so it remains visuall
 - Power Query 
 
 ---
-![Academic Performance Overview](Data-analytics-portfolio/PowerBI/01-academic-performance/screenshots/Academic_performance_overview.png)
+![Academic Performance Overview](Data-analytics-portfolio/PowerBI/01-academic-performance/screenshots/Academic_Performance_Overview.png)
 
 *This project was completed as a structured series of exercises simulating a real-world education-sector analytics engagement, progressing from raw data to a finished, navigable analytical product.*
 
