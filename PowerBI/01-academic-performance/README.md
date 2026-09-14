@@ -93,7 +93,7 @@ Each element uses a distinct colour, line style and weight so it remains visuall
 - Power Query data cleaning and transformation
 - Star-schema dimensional modelling
 - DAX calendar table construction
-- Filter context manipulation (`CALCULATE`, `ALL`, `ALLEXCEPT`)
+- Filter context manipulation (`CALCULATE`, `REMOVEFILTERS`)
 - Time intelligence (`TOTALYTD`, month-over-month calculations, Quick Measures)
 - Built-in analytics (trend lines, forecasting, percentiles)
 - Drill-through and tooltip page design
