@@ -35,7 +35,7 @@ Data quality decisions:
 ## Tableau Dashboard
 The SQL output was exported to CSV and used as the data source in Tableau Public.
 
-[View the dashboard on Tableau Public →](PASTE_YOUR_PUBLIC_TABLEAU_LINK_HERE)
+[View the dashboard on Tableau Public →](https://public.tableau.com/views/Marketing_Ads_Dashboard/MarketingPerformanceDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 Dashboard components:
 
